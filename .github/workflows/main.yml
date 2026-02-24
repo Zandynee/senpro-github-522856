@@ -44,7 +44,7 @@ jobs:
                     {
                         echo "Repository belum di-clone. Cloning...";
                         mkdir -p ~/senpro/522856/modul02;
-                        cd ~/sempro/522856/modul02;
+                        cd ~/senpro/522856/modul02;
                         git clone https://github.com/Zandynee/senpro-github-522856;
                         cd ~/senpro/522856/modul02/senpro-github-action;
                         echo "Install Package and Build Project";
